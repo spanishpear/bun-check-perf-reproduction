@@ -1,0 +1,7 @@
+{
+  "name": "bun-check-wide-solution-repro",
+  "private": true,
+  "devDependencies": {
+    "@typescript/native": "npm:typescript@7.0.2"
+  }
+}
